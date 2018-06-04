@@ -113,6 +113,7 @@ nav ul li a.active {
 
     .menu-toggle {
         display: block;
+        width: 30px;
     }
 
     nav {
