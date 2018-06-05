@@ -16,7 +16,6 @@
     --logo: Allura, cursive;
     --sans-serif: 'PT Sans', sans-serif;
     --serif: 'Sura', serif;
-
 }
 
 * {
@@ -153,8 +152,8 @@ nav ul li a.active {
     }
 
     contact-container ul {
-         display: flex;
-  justify-content: center;
+        display: flex;
+        justify-content: center;
     }
 
     .contact-container li {
