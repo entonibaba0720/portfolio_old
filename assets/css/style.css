@@ -247,13 +247,12 @@ img:hover {
 .thumbnail {
     height: 100%;
     width: 100%;
-
 }
 
-.caption {
+.caption p{
     background: var(--white);
     box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.75);
-     margin-bottom: 30px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
